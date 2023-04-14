@@ -14,6 +14,7 @@ use Models\Login as Login;
 
 		public function __construct(){
 			// Comentario de prueba 14/04/2023
+			//el comentario de diego rearte esta listo para merge
 			$this->login = new login();
 
 		}
